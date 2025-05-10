@@ -1,2 +1,2 @@
 # UAM
-[Simulaiton Site](https://1023sherry.github.io/UAM_NEW/)
+[Simulaiton Site](https://camuslab.github.io/building_visualiztion/)
